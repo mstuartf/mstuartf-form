@@ -1,0 +1,11 @@
+{
+    "prod": {
+        "app_function": "app.app", 
+        "aws_region": "eu-west-2", 
+        "profile_name": "default", 
+        "project_name": "mstuartf-contact-form", 
+        "runtime": "python2.7", 
+        "s3_bucket": "mstuartf-form",
+        "cors": true
+    }
+}
